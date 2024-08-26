@@ -96,8 +96,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: Tú también puedes contribuir a hacer ciudad, sin dejar a nadie atrás
+  description: Conoce más sobre la Agenda 2030, participa y contribuye a combatir el cambio climático, luchar por la igualdad de todas las personas y hacer de nuestra ciudad un lugar más habitable y sostenible
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
